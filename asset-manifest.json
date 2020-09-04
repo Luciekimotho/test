@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/sdgportalreact/static/css/main.62ecbf33.chunk.css",
-    "main.js": "/sdgportalreact/static/js/main.ab97b7f8.chunk.js",
-    "main.js.map": "/sdgportalreact/static/js/main.ab97b7f8.chunk.js.map",
+    "main.js": "/sdgportalreact/static/js/main.bbe2c00c.chunk.js",
+    "main.js.map": "/sdgportalreact/static/js/main.bbe2c00c.chunk.js.map",
     "runtime-main.js": "/sdgportalreact/static/js/runtime-main.177348df.js",
     "runtime-main.js.map": "/sdgportalreact/static/js/runtime-main.177348df.js.map",
     "xlsx.js": "/sdgportalreact/static/js/xlsx.850ca309.chunk.js",
     "xlsx.js.map": "/sdgportalreact/static/js/xlsx.850ca309.chunk.js.map",
     "static/css/3.f67e6d40.chunk.css": "/sdgportalreact/static/css/3.f67e6d40.chunk.css",
-    "static/js/3.823cae35.chunk.js": "/sdgportalreact/static/js/3.823cae35.chunk.js",
-    "static/js/3.823cae35.chunk.js.map": "/sdgportalreact/static/js/3.823cae35.chunk.js.map",
+    "static/js/3.88aeebcc.chunk.js": "/sdgportalreact/static/js/3.88aeebcc.chunk.js",
+    "static/js/3.88aeebcc.chunk.js.map": "/sdgportalreact/static/js/3.88aeebcc.chunk.js.map",
     "static/js/4.76fc7856.chunk.js": "/sdgportalreact/static/js/4.76fc7856.chunk.js",
     "static/js/4.76fc7856.chunk.js.map": "/sdgportalreact/static/js/4.76fc7856.chunk.js.map",
     "static/js/5.cd383c10.chunk.js": "/sdgportalreact/static/js/5.cd383c10.chunk.js",
@@ -17,11 +17,11 @@
     "static/js/6.fa2d5d07.chunk.js": "/sdgportalreact/static/js/6.fa2d5d07.chunk.js",
     "static/js/6.fa2d5d07.chunk.js.map": "/sdgportalreact/static/js/6.fa2d5d07.chunk.js.map",
     "index.html": "/sdgportalreact/index.html",
-    "precache-manifest.32a929e2f275b000f6973c2d4ad9bfa9.js": "/sdgportalreact/precache-manifest.32a929e2f275b000f6973c2d4ad9bfa9.js",
+    "precache-manifest.40c2063323386808f604d8925ecdd07b.js": "/sdgportalreact/precache-manifest.40c2063323386808f604d8925ecdd07b.js",
     "service-worker.js": "/sdgportalreact/service-worker.js",
     "static/css/3.f67e6d40.chunk.css.map": "/sdgportalreact/static/css/3.f67e6d40.chunk.css.map",
     "static/css/main.62ecbf33.chunk.css.map": "/sdgportalreact/static/css/main.62ecbf33.chunk.css.map",
-    "static/js/3.823cae35.chunk.js.LICENSE.txt": "/sdgportalreact/static/js/3.823cae35.chunk.js.LICENSE.txt",
+    "static/js/3.88aeebcc.chunk.js.LICENSE.txt": "/sdgportalreact/static/js/3.88aeebcc.chunk.js.LICENSE.txt",
     "static/js/5.cd383c10.chunk.js.LICENSE.txt": "/sdgportalreact/static/js/5.cd383c10.chunk.js.LICENSE.txt",
     "static/js/6.fa2d5d07.chunk.js.LICENSE.txt": "/sdgportalreact/static/js/6.fa2d5d07.chunk.js.LICENSE.txt",
     "static/media/00.jpg": "/sdgportalreact/static/media/00.372fa977.jpg",
@@ -158,8 +158,8 @@
   "entrypoints": [
     "static/js/runtime-main.177348df.js",
     "static/css/3.f67e6d40.chunk.css",
-    "static/js/3.823cae35.chunk.js",
+    "static/js/3.88aeebcc.chunk.js",
     "static/css/main.62ecbf33.chunk.css",
-    "static/js/main.ab97b7f8.chunk.js"
+    "static/js/main.bbe2c00c.chunk.js"
   ]
 }
