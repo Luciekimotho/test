@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "55dc54f60b4869dacc08ea813c585d1d",
+    "revision": "24708162b3444fae06598998f6656962",
     "url": "/sdgportalreact/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sdgportalreact/static/css/3.f67e6d40.chunk.css"
   },
   {
-    "revision": "9d6ba4db4cb7cc46534c",
+    "revision": "b9a94fc2a715fa0ffd6b",
     "url": "/sdgportalreact/static/css/main.62ecbf33.chunk.css"
   },
   {
@@ -40,8 +40,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sdgportalreact/static/js/6.fa2d5d07.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9d6ba4db4cb7cc46534c",
-    "url": "/sdgportalreact/static/js/main.2b65ff15.chunk.js"
+    "revision": "b9a94fc2a715fa0ffd6b",
+    "url": "/sdgportalreact/static/js/main.205aa634.chunk.js"
   },
   {
     "revision": "e77272863dc2ed5a6843",

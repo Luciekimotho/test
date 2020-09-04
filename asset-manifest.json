@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/sdgportalreact/static/css/main.62ecbf33.chunk.css",
-    "main.js": "/sdgportalreact/static/js/main.2b65ff15.chunk.js",
-    "main.js.map": "/sdgportalreact/static/js/main.2b65ff15.chunk.js.map",
+    "main.js": "/sdgportalreact/static/js/main.205aa634.chunk.js",
+    "main.js.map": "/sdgportalreact/static/js/main.205aa634.chunk.js.map",
     "runtime-main.js": "/sdgportalreact/static/js/runtime-main.177348df.js",
     "runtime-main.js.map": "/sdgportalreact/static/js/runtime-main.177348df.js.map",
     "xlsx.js": "/sdgportalreact/static/js/xlsx.850ca309.chunk.js",
@@ -17,7 +17,7 @@
     "static/js/6.fa2d5d07.chunk.js": "/sdgportalreact/static/js/6.fa2d5d07.chunk.js",
     "static/js/6.fa2d5d07.chunk.js.map": "/sdgportalreact/static/js/6.fa2d5d07.chunk.js.map",
     "index.html": "/sdgportalreact/index.html",
-    "precache-manifest.32457650427a307b0630a3d0de8188df.js": "/sdgportalreact/precache-manifest.32457650427a307b0630a3d0de8188df.js",
+    "precache-manifest.108a98533bacbd45eed112341b36d1b7.js": "/sdgportalreact/precache-manifest.108a98533bacbd45eed112341b36d1b7.js",
     "service-worker.js": "/sdgportalreact/service-worker.js",
     "static/css/3.f67e6d40.chunk.css.map": "/sdgportalreact/static/css/3.f67e6d40.chunk.css.map",
     "static/css/main.62ecbf33.chunk.css.map": "/sdgportalreact/static/css/main.62ecbf33.chunk.css.map",
@@ -160,6 +160,6 @@
     "static/css/3.f67e6d40.chunk.css",
     "static/js/3.88aeebcc.chunk.js",
     "static/css/main.62ecbf33.chunk.css",
-    "static/js/main.2b65ff15.chunk.js"
+    "static/js/main.205aa634.chunk.js"
   ]
 }
